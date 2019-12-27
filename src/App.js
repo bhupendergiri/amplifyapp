@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React From Bhupender Giri @
+          Learn React From Bhupender Giri starting from 12/27/2019
         </a>
       </header>
     </div>
